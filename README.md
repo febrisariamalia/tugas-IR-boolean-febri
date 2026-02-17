@@ -31,7 +31,7 @@ Dokumen contoh yang digunakan berupa kalimat bahasa Indonesia (3 dokumen).
 3. Jalankan cell dari atas ke bawah (**Run All**).
 4. Saat diminta input, masukkan query sesuai format.
 
-### (Opsional) Instalasi library
+### Instalasi library
 Jika diperlukan, install library dari `requirements.txt`:
 ```bash
 pip install -r requirements.txt
@@ -65,3 +65,4 @@ Proyek ini dikerjakan dengan mengikuti panduan dan referensi kode dari:
 - Repositori asli: [DataScienceProjects](https://github.com/HimanshuBajpai869/DataScienceProjects) oleh Himanshu Bajpai.
 
 _Dibuat untuk memenuhi tugas Sistem Temu Kembali Informasi._
+
