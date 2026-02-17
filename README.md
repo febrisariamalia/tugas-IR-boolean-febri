@@ -61,8 +61,9 @@ pip install -r requirements.txt
 ## Referensi & Acknowledgements
 Proyek ini dikerjakan dengan mengikuti panduan dan referensi kode dari:
 
-- Artikel: [Basic Information Retrieval Problem — Boolean Retrieval Model](https://bajpaihimanshu.medium.com/basic-information-retrieval-problem-boolean-retrieval-model-ed05f3d74ddc) oleh Himanshu Bajpai.
+- Artikel: [Basic Information Retrieval Problem — Boolean Retrieval Model](https://bajpaihimanshu.medium.com/basic-information-retrieval-problem-boolean-retrieval-model-ed05f3d74ddc) 
 - Repositori asli: [DataScienceProjects](https://github.com/HimanshuBajpai869/DataScienceProjects) oleh Himanshu Bajpai.
 
 _Dibuat untuk memenuhi tugas Sistem Temu Kembali Informasi._
+
 
